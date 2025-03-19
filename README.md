@@ -59,12 +59,31 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/23agruszkiewicz?theme=dark&font=Baloo%202&ext=activity&animation=false)
 
+<h2>Contact me</h2>
+
+<h3>
+  <a href="https://www.linkedin.com/in/alan-gruszkiewicz" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg">
+  </a>
+  <a href="https://www.instagram.com/alan.g_.04" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg">
+  </a>
+  <a href="https://www.youtube.com/channel/UCLS4P1OFWHkd3EJ2bzMNQ5Q" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg">
+  </a>
+  <!--
+  <a href="https://www.linkedin.com/in/alan-gruszkiewicz" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/whatsapp.svg">
+  </a>
+  <a href="https://discord.com/users/476739948930793482" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg">
+  </a>
+  -->
+</h3>
+
 <!--
 PROJECTS:
 
 -FEATURED
 -CURRENT
-
-LEETCODE STATS
-CONTACT
 -->
