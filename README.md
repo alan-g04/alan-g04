@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+it's,+Alan+Gruszkiewicz;Masters+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+it's,+Alan+Gruszkiewicz;Undergraduate+Student)
 
 ## About Me
 
@@ -19,7 +19,7 @@
     <tr>
       <td><strong>Languages</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=py,js,ts,java,php,latex,matlab"/>
+        <img src="https://skillicons.dev/icons?i=py,haskell,js,ts,java,php,latex,matlab"/>
       </td>
     </tr>
     <tr>
@@ -37,13 +37,13 @@
     <tr>
       <td><strong>Databases</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=dynamodb,mongodb,mysql,sqlite,postgres,regex"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,regex"/>
       </td>
     </tr>
     <tr>
       <td><strong>Tools & Technologies</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma,obsidian,github"/>
+        <img src="https://skillicons.dev/icons?i=aws,vscode,figma,obsidian,github"/>
       </td>
     </tr>
     <tr>
