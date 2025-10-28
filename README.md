@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+it's,+Alan+Gruszkiewicz;Maths+School+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+it's,+Alan+Gruszkiewicz;Masters+Student)
 
 ## About Me
 
 🌐 Aspiring full stack developer aiming to my expand my skill set for future employability.  
-🏫 In college, driven by the love for solving problems, I am studying 4 A-Levels and looking to pursue a degree in Computer Science.  
+🏫 Starting university, driven by the love for solving problems, I am in the first year of my MComp(Hons) in Computer Science and Maths.  
 🏀 Outside of professional and academic pursuits, I am an avid basketball player and fan of the Miami Heat.
 
 <h2>🛠️ Technical Skills</h2>
