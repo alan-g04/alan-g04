@@ -55,9 +55,12 @@
   </tbody>
 </table>
 
+
+<!--
 <h2>Leetcode Stats</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/23agruszkiewicz?theme=dark&font=Baloo%202&ext=activity&animation=false)
+-->
 
 <h2>Contact me</h2>
 
