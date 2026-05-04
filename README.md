@@ -1,10 +1,17 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+it's,+Alan+Gruszkiewicz;Undergraduate+Student)
 
-## About Me
+## 👨‍💻 About Me
 
-🌐 Aspiring full stack developer aiming to my expand my skill set for future employability.  
-🏫 Starting university, driven by the love for solving problems, I am in the first year of my MComp(Hons) in Computer Science and Maths.  
-🏀 Outside of professional and academic pursuits, I am an avid basketball player and fan of the Miami Heat.
+I am a Software Engineer and MComp Computer Science and Mathematics student at the University of Bath. I specialise in building highly optimised applications, interactive data visualisations, and robust backend architectures, bridging the gap between mathematical theory and software design.
+
+    🔭 Currently working on: Internship preparation, revision for exams, DJI Photogrammetry Pipeline.
+
+    🌱 Currently learning: Ruby on Rails, Parameter estimation, Probabilistic modeling.
+
+    🎯 Objective: Participate in more events, contribute to Engineering Competition teams at university and have a productive summer!
+
+    ⚡ Beyond the screen: Avid badminton player, dedicated Miami Heat fan, and infinitely curious.
+
 
 <h2>🛠️ Technical Skills</h2>
 
@@ -62,7 +69,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/23agruszkiewicz?theme=dark&font=Baloo%202&ext=activity&animation=false)
 -->
 
-<h2>Contact me</h2>
+<h2>📬 Connect</h2>
 
 <h3>
   <a href="https://www.linkedin.com/in/alan-gruszkiewicz" target="_blank">
@@ -74,19 +81,4 @@
   <a href="https://www.youtube.com/channel/UCLS4P1OFWHkd3EJ2bzMNQ5Q" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg">
   </a>
-  <!--
-  <a href="https://www.linkedin.com/in/alan-gruszkiewicz" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/whatsapp.svg">
-  </a>
-  <a href="https://discord.com/users/476739948930793482" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg">
-  </a>
-  -->
 </h3>
-
-<!--
-PROJECTS:
-
--FEATURED
--CURRENT
--->
