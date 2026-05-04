@@ -63,6 +63,11 @@ I am a Software Engineer and MComp Computer Science and Mathematics student at t
 </table>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
