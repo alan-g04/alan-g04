@@ -62,8 +62,8 @@ I am a Software Engineer and MComp Computer Science and Mathematics student at t
   </tbody>
 </table>
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 <h2>Leetcode Stats</h2>
