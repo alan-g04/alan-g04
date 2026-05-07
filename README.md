@@ -66,7 +66,10 @@ I am a Software Engineer and MComp Computer Science and Mathematics student at t
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin     6 mins                ███████████▒░░░░░░░░░░░░░   44.76 %
+Markdown   3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
+Other      2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+Haskell    2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
 ```
 
 <!--END_SECTION:waka-->
