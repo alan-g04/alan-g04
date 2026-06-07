@@ -18,7 +18,7 @@ I am a Software Engineer and MComp Computer Science and Mathematics student at t
     Beyond the screen: Avid badminton player, dedicated Miami Heat fan, and infinitely curious.
 -->
 
-
+<!--
 <h2>Technical Skills</h2>
 
 <table>
@@ -67,6 +67,7 @@ I am a Software Engineer and MComp Computer Science and Mathematics student at t
     </tr>
   </tbody>
 </table>
+-->
 
 ## Recent Activity
 <!--START_SECTION:waka-->
@@ -101,12 +102,10 @@ Other                      27 mins               █▓░░░░░░░░�
   <a href="https://www.linkedin.com/in/alan-gruszkiewicz" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg">
   </a>
-  <!--
   <a href="https://www.instagram.com/alan.g_.04" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg">
   </a>
   <a href="https://www.youtube.com/channel/UCLS4P1OFWHkd3EJ2bzMNQ5Q" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg">
   </a>
-  -->
 </h3>
