@@ -1,6 +1,6 @@
 <h1>Alan Gruszkiewicz</h1>
 
-MComp Computer Science and Mathematics student at the University of Bath. Interested in scientific computing, data visualisation, and backend systems.
+MComp Computer Science and Mathematics @ University of Bath. SWE @ Ditchcarbon
 
 <!--
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+it's,+Alan+Gruszkiewicz;Undergraduate+Student)
