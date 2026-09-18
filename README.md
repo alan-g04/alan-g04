@@ -73,11 +73,11 @@ I am a Software Engineer and MComp Computer Science and Mathematics student at t
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 24 mins         ████████▓░░░░░░░░░░░░░░░░   34.49 %
-TypeScript   5 hrs 20 mins         ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-Ruby         3 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-Other        2 hrs 22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-GraphQL      26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Markdown     7 hrs 6 mins          █████████▓░░░░░░░░░░░░░░░   39.08 %
+Ruby         4 hrs 41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+TypeScript   4 hrs 39 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+Other        1 hr 43 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+GraphQL      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
