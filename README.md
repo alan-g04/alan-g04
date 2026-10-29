@@ -73,11 +73,7 @@ I am a Software Engineer and MComp Computer Science and Mathematics student at t
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 3 mins          █████████████▓░░░░░░░░░░░   55.04 %
-Other      46 mins               █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-Markdown   38 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
-Ruby       13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Bash       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
